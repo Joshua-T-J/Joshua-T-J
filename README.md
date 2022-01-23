@@ -4,7 +4,7 @@
 <p>🌱 I’m currently doing Tech in Computer Science</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_joshua_t_j/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="joshua" height="30" width="90" /></a> <a href="www.linkedin.com/in/joshua-t-j-68121b22a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joshua" height="30" width="90" /></a> 
+<a href="https://www.instagram.com/_joshua_t_j/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="joshua" height="30" width="90" /></a> <a href="https://www.linkedin.com/in/joshua-t-j-68121b22a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joshua" height="30" width="90" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
