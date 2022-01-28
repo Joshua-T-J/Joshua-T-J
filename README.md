@@ -1,7 +1,7 @@
-<h1>👋 Hi, I’m Joshua T J</h1>
+<h1 align="center">👋 Hi, I’m Joshua T J</h1>
 </br>
-<h3>👀 I’m interested in Front-End development</h3></br>
-<p>🌱 I’m currently doing Tech in Computer Science</p>
+<h3 align="center">I’m interested in Front-End development</h3></br>
+<p> I’m currently doing B-Tech in Computer Science</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/_joshua_t_j/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="joshua" height="30" width="90" /></a> <a href="https://www.linkedin.com/in/joshua-t-j-68121b22a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joshua" height="30" width="90" /></a> 
