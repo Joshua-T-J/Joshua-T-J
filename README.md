@@ -14,6 +14,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="html5" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS" alt="css3" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"  title="Javascript" alt="Javascript" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"  title="Typescript" alt="Typescript" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"  title="Angular" alt="Angular" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  title="React" alt="React" width="40" height="40"/> 
