@@ -28,6 +28,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"  title="VS Code" alt="VS Code" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"  title="Visual Studio" alt="Visual Studio" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"  title="Photoshop" alt="Photoshop" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg"  title="Azure" alt="Azure" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  title="Git" alt="Git" width="40" height="40"/> 
 </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-t-j&show_icons=true&locale=en&layout=compact&title_color=00bef2&icon_color=f2b100&text_color=e3e1e1&bg_color=0D1117" alt="joshua-t-j" /></p>
