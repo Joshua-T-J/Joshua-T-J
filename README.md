@@ -32,9 +32,10 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  title="Git" alt="Git" width="40" height="40"/> 
 </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-t-j&show_icons=true&locale=en&layout=compact&title_color=00bef2&icon_color=f2b100&text_color=e3e1e1&bg_color=0D1117" alt="joshua-t-j" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-t-j&show_icons=true&locale=en&layout=compact&title_color=00bef2&icon_color=f2b100&text_color=e3e1e1&bg_color=0D1117" alt="joshua-t-j" /></p> -->
+<p><img align="left" src="https://github-stats-extended.vercel.app/api?username=Joshua-T-J&show_icons=true&locale=en&layout=compact&title_color=00bef2&icon_color=f2b100&text_color=e3e1e1&bg_color=0D1117" alt="joshua-t-j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-t-j&show_icons=true&locale=en&title_color=00bef2&icon_color=f2b100&text_color=e3e1e1&bg_color=0D1117" alt="joshua-t-j" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-t-j&show_icons=true&locale=en&title_color=00bef2&icon_color=f2b100&text_color=e3e1e1&bg_color=0D1117" alt="joshua-t-j" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-t-j&theme=transparent" alt="joshua-t-j" /></p>
 
