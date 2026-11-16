@@ -54,8 +54,8 @@ I'm a full-stack developer from India who enjoys building clean, reliable web ap
 
 | Project | Description | Tech |
 |---|---|---|
-| [**FaceMatch Pro**](https://github.com/Joshua-T-J/face-match-pro) | Face-recognition app: enrol people, detect faces and match them using InsightFace (SCRFD + ArcFace) embeddings. | Angular · ASP.NET Core (.NET 10) · Python FastAPI · SQL Server |
 | [**GistVault**](https://github.com/Joshua-T-J/gistvault) · [Live](https://gistvault.vercel.app) | Save and organise reusable commands and snippets as GitHub Gists, with GitHub sign-in. | Angular 22 · TypeScript · Vitest · Vercel |
+| [**FaceMatch Pro**](https://github.com/Joshua-T-J/face-match-pro) | Face-recognition app: enrol people, detect faces and match them using InsightFace (SCRFD + ArcFace) embeddings. | Angular · ASP.NET Core (.NET 10) · Python FastAPI · SQL Server |
 | [**Portfolio**](https://github.com/Joshua-T-J/portfolio_ng) · [Live](https://joshuatj.vercel.app) | My personal portfolio with content managed through a headless CMS. | Angular 20 · Angular Material · Bootstrap · Contentful |
 | [**JTJ Creations**](https://github.com/Joshua-T-J/jtjcreations) · [Live](https://jtjcreations.vercel.app) | Business website for JTJ Creations. | Angular · TypeScript · SCSS |
 
