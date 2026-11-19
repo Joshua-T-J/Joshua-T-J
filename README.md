@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Joshua T J 👋</h1>
-<h3 align="center">Full-Stack Developer · Angular · .NET · TypeScript</h3>
+<h3 align="center">Full-Stack Developer · Angular · .NET · TypeScript · SQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-t-j-68121b22a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
